@@ -11,4 +11,4 @@ El propósito del laboratorio es **aplicar técnicas de Machine Learning y Deep 
 - Prueba con muestras artificiales para analizar la coherencia del modelo.  
 - Revisión de métodos de validación cruzada.  
 
-Este repositorio incluye el código fuente y la documentación en la Wiki con el desarrollo a las preguntas. 
+Este repositorio incluye el código fuente y en la Wiki con el desarrollo a las preguntas. 
